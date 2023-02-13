@@ -1,0 +1,17 @@
+html{
+    background-color:antiquewhite;
+}
+ul{
+    list-style:none;
+}
+nav ul{
+    display:flex;
+    justify-content:space-between;
+}
+li{
+    margin-left:10px;
+}
+header{
+    background-color: cadetblue;
+    height:100px;
+}
